@@ -1,6 +1,7 @@
 ul {
     list-style-type: none;
     margin: 0;
+    font-style: bold;
     padding: 0;
     overflow: hidden;
     background-color: #fff;
@@ -46,7 +47,7 @@ ul {
   }
   .main-header{
       color: #fff;
-      font-size: 40px;
+      font-size: 100px;
       font-weight: bold;
       text-align: center;
   }
